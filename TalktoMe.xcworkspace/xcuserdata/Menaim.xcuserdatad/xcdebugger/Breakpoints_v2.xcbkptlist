@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserControllers/UsersViewController.swift"
+            timestampString = "589584270.838647"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserControllers/UsersViewController.swift"
+            timestampString = "589584270.838781"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+            timestampString = "589583770.736914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "register(email:username:password:image:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.313206"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.32274"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "334">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+            timestampString = "589583770.736976"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "register(email:username:password:image:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.351861"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "694">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.354951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "2302">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+            timestampString = "589583770.737033"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "register(email:username:password:image:complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRStorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.375747"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRStorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TalktoMe.RegisterViewModel.register(email: Swift.Optional&lt;Swift.String&gt;, username: Swift.String, password: Swift.Optional&lt;Swift.String&gt;, image: Swift.Optional&lt;__C.UIImage&gt;, complition: (TalktoMe.User) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+                  timestampString = "589582906.378567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "3038">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+            timestampString = "589583770.7370909"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "register(email:username:password:image:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserViewModel/RegisterViewModel.swift"
+            timestampString = "589583770.737147"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "register(email:username:password:image:complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Situations/SituationViewModel/SituationViewModel.swift"
+            timestampString = "589230907.761055"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "observeSituations(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TalktoMe.SituationViewModel.observeSituations(complition: (TalktoMe.Situation) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Situations/SituationViewModel/SituationViewModel.swift"
+                  timestampString = "589232321.215454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "247">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in TalktoMe.SituationViewModel.observeSituations(complition: (TalktoMe.Situation) -&gt; ()) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Situations/SituationViewModel/SituationViewModel.swift"
+                  timestampString = "589232321.219346"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Situations/SituationViewModel/SituationViewModel.swift"
+            timestampString = "589230911.198169"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "observeSituations(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Situations/SituationsControllers/SituationsViewController.swift"
+            timestampString = "589297634.019773"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Situations/SituationViewModel/SituationViewModel.swift"
+            timestampString = "589232344.787415"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "observeSituations(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserControllers/RegisterViewController.swift"
+            timestampString = "589584270.8391221"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "buttonRegisterAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TalktoMe/Authentication/UserControllers/RegisterViewController.swift"
+            timestampString = "589584270.839223"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "buttonRegisterAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TalktoMe.RegisterViewController.buttonRegisterAction(Any) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserControllers/RegisterViewController.swift"
+                  timestampString = "589582906.415005"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "5183">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TalktoMe.User) -&gt; () in TalktoMe.RegisterViewController.buttonRegisterAction(Any) -&gt; ()"
+                  moduleName = "TalktoMe"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Uni/ITShare/Current%20Working/TalktoMe/TalktoMe/Authentication/UserControllers/RegisterViewController.swift"
+                  timestampString = "589582906.417556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
